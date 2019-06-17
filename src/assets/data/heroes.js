@@ -6,7 +6,7 @@ import hulk from '../img/hulk.png';
 import linterna_verde from '../img/linterna-verde.png';
 import spiderman from '../img/spiderman.png';
 import wolverine from '../img/wolverine.png';
-
+import omar from '../img/omar.jpg';
 
 export default [
     {
@@ -56,6 +56,13 @@ export default [
         bio: "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que ésta sea, además ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee también una fuerza sobrehumana, que si bien no se compara con la de otros superhéroes como Hulk, sí sobrepasa la de cualquier humano.",
         img: wolverine,
         aparicion: "1974-11-01",
+        casa: "Marvel"
+    },
+    {
+        nombre: "Omar",
+        bio: "Nací en Arboletes, Antioquia y desde hace 4 años vivo en la ciudad de Medellín, Soy Tecnólogo en mantenimiento de equipos de computo y apasionado por los computadores (sebre todo el Hardware), Disfruto pasar tiempo Ensamblando Computadores de alto rendimiento o Gamers, además jugar videojuegos; Actualmente soy estudiante de sexto semestre de Ingeniería informatica",
+        img: omar,
+        aparicion: "1994-10-29",
         casa: "Marvel"
     }
 ];
